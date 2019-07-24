@@ -1,1 +1,1 @@
-# Sieve-of-Eratosthenes-Lab5
+Sieve of Eratosthenes using Scala
